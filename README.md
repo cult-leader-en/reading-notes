@@ -2,6 +2,7 @@
 
 This is my reading notes repo to track all of my reading notes.
 
+![This is art](https://i.picsum.photos/id/91/200/300.jpg?hmac=MJmqvWth15jZIlWiHwt01J_qoMRgygGRm0nf1adZtdE)
 
 ## About Me
 
