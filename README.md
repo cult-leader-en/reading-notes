@@ -18,10 +18,16 @@ To me growth mindset is about being able to learn.
 - Take things slow
 - **Breath** through feeling overwhelmed
 
+## Table of Contents
+
+- [Markdown Summary](markdown.md)
+- [The Dev Comp](thedevcomp.md)
+
 ### Contact Me
 #### My DMs are always open
 [Twitter](https://twitter.com/cult_leader_en)
 [Linkedin](https://www.linkedin.com/in/en-canada)
 [Github](https://github.com/cult-leader-en)
 
-Link to [Markdown.md](markdown.md)
+
+
